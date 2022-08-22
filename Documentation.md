@@ -38,7 +38,7 @@ local Tab = Window:MakeTab({
 --[[
 Name = <string> - The name of the tab.
 Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+PremiumOnly = <bool> - Makes the tab accessible to Sirius Premium users only.
 ]]
 ```
 ## Creating a Section
